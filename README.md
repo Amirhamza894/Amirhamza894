@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [email](hm_xa@yahoo.com)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i am half finnish
+- ⚡ Fun fact: ... i am half finnish \
 ---->
