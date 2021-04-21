@@ -1,7 +1,5 @@
 ### <mark>`Here is what i am working on 👋`</mark>
-
 -----
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Deep learning and Computer Vision
