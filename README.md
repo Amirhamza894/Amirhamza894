@@ -2,8 +2,8 @@
 -----
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Olx
-- 🌱 I’m currently learning ... API and Cypress Automation Testing
+- 🔭 I’m currently working on ... Olx as a tester
+- 🌱 I’m currently learning ... New test Automation frameworks
 - 👯 I’m looking to collaborate on ... Automation Frameworks
 - 🤔 I’m looking for help with ... Selenium, Cypress and Testing Frameworks
 - 💬 Ask me about ... Anything
